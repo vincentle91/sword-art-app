@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import App from './App';
+import{ App } from './App';
 
 // the purpose of the tests are to ensure correct rendering  of the component
 // this type of testing is called  unit testing
